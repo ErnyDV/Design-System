@@ -99,7 +99,7 @@ section{
     height: 6.25rem;
     width: 6.25rem;
     border-radius: 1.313rem;
-    background-color:#FFE6DC;
+    background-color:#FFE6DC
 }
 
 .box::before{
@@ -257,9 +257,22 @@ section{
     color: #838383;
 }
 
+footer{
+    position: sticky;
+    width: 100%;
+    height: 4.875rem;
+    background-color:#FFE6DC;
+}
+img{
+    position: relative;
+    margin: 0.563rem;
+    left: 50%;
+    transform: translate(-50%);
+    width: 4.125rem;
+    height: 3.688rem;
+}
 
-
-/*FOOTER*/
+/*OTHER*/
 #typographybox span{
     font-family: 'inter';
     font-size: 1.563rem;
@@ -289,23 +302,6 @@ section{
     top: 1.063rem;
 
 }
-footer{
-    position: sticky;
-    width: 100%;
-    height: 4.875rem;
-    background-color:#FFE6DC;
-}
-img{
-    position: relative;
-    margin: 0.563rem;
-    left: 50%;
-    transform: translate(-50%);
-    width: 4.125rem;
-    height: 3.688rem;
-}
-
-/*OTHER*/
-
 a{
     text-decoration: none;
     color: inherit;
