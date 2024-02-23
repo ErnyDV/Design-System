@@ -262,6 +262,7 @@ footer{
     width: 100%;
     height: 4.875rem;
     background-color:#FFE6DC;
+    bottom: 0;
 }
 img{
     position: relative;
