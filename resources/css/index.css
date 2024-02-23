@@ -99,7 +99,7 @@ section{
     height: 6.25rem;
     width: 6.25rem;
     border-radius: 1.313rem;
-    background-color: #FFC6AD;
+    background-color:#FFE6DC;
 }
 
 .box::before{
@@ -110,7 +110,7 @@ section{
     height: 100%;
     right:  17rem;
     z-index: 1;
-    background-color: #FFC6AD;
+    background-color:#FFC6AD
 }
 
 .box::after{
